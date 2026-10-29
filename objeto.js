@@ -5,7 +5,7 @@ let pessoa = {
 };
 console.log(pessoa)
 
-let mudanca = 10
-console.log(mudanca)
-mudanca=true
-console.log(mudanca)
+// let mudanca = 10
+// console.log(mudanca)
+// mudanca=true
+// console.log(mudanca)
